@@ -1,0 +1,16 @@
+
+f
+java:S1192?"JDefine a constant instead of duplicating this literal "Lifecycle" 5 times.(Ã›q8•…ÛÃ·1
+J
+java:S1604%"(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ8«ÖÏ¸·1
+E
+java:S1604,"(Make this anonymous inner class a lambda(éäó‚8«ÖÏ¸·1
+J
+java:S16043"(Make this anonymous inner class a lambda(ÈŒèâüÿÿÿÿ8«ÖÏ¸·1
+w
+java:S1450"ZRemove the "falseButton" field and declare it as a local variable in the relevant methods.(Ôœ8¾ÖÏ¸·1
+{
+java:S1450"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ8¾ÖÏ¸·1
+{
+java:S1450"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãş×Äüÿÿÿÿ8¾ÖÏ¸·1
+o	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìôïêÿÿÿÿÿ8ÄÖÏ¸·1
